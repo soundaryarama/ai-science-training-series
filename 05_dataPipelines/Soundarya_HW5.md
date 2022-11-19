@@ -2,10 +2,15 @@ HW: Vary the parallel_threads and prefetch_buffer_size parameters at the top of 
 
 No. of parallel threads,buffer_size,Mean rate of images/sec
 16,8,592
+
 32,8,674
+
 64,8,725
+
 128,8,834
+
 128,16,856
+
 128,32,915
 
 
