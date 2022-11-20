@@ -1,0 +1,40 @@
+[2022-11-04 11:18:45,358][ai4sci.ilsvrc_dataset][INFO] - input filelist contains 1281167 files, estimated batches per rank 312
+[2022-11-04 11:18:47,548][ai4sci.ilsvrc_dataset][INFO] - input filelist contains 50000 files, estimated batches per rank 12
+[2022-11-04 11:19:13,588][ai4sci.trainer][INFO] - [0] [0/10: 0 / 160145 (0%)] epoch=0.0000 dt=24.7307 running_loss=0.0000 batch_loss=0.0149 acc=0.0000 batch_acc=0.0020
+[2022-11-04 11:19:23,279][ai4sci.trainer][INFO] - [0] [0/10: 5120 / 160145 (3%)] epoch=0.0000 dt=0.5744 running_loss=0.0005 batch_loss=0.0137 acc=0.0001 batch_acc=0.0039
+[2022-11-04 11:19:31,940][ai4sci.trainer][INFO] - [0] [0/10: 10240 / 160145 (6%)] epoch=0.0000 dt=1.0192 running_loss=0.0010 batch_loss=0.0136 acc=0.0001 batch_acc=0.0020
+[2022-11-04 11:19:40,475][ai4sci.trainer][INFO] - [0] [0/10: 15360 / 160145 (10%)] epoch=0.0000 dt=0.9881 running_loss=0.0014 batch_loss=0.0135 acc=0.0001 batch_acc=0.0000
+[2022-11-04 11:19:48,917][ai4sci.trainer][INFO] - [0] [0/10: 20480 / 160145 (13%)] epoch=0.0000 dt=0.5904 running_loss=0.0018 batch_loss=0.0135 acc=0.0002 batch_acc=0.0039
+[2022-11-04 11:19:57,607][ai4sci.trainer][INFO] - [0] [0/10: 25600 / 160145 (16%)] epoch=0.0000 dt=0.5489 running_loss=0.0023 batch_loss=0.0134 acc=0.0002 batch_acc=0.0000
+[2022-11-04 11:20:06,608][ai4sci.trainer][INFO] - [0] [0/10: 30720 / 160145 (19%)] epoch=0.0000 dt=0.7792 running_loss=0.0027 batch_loss=0.0133 acc=0.0003 batch_acc=0.0039
+[2022-11-04 11:20:15,092][ai4sci.trainer][INFO] - [0] [0/10: 35840 / 160145 (22%)] epoch=0.0000 dt=0.5953 running_loss=0.0031 batch_loss=0.0133 acc=0.0003 batch_acc=0.0020
+[2022-11-04 11:20:23,343][ai4sci.trainer][INFO] - [0] [0/10: 40960 / 160145 (26%)] epoch=0.0000 dt=0.5785 running_loss=0.0035 batch_loss=0.0133 acc=0.0004 batch_acc=0.0039
+[2022-11-04 11:20:32,166][ai4sci.trainer][INFO] - [0] [0/10: 46080 / 160145 (29%)] epoch=0.0000 dt=0.5937 running_loss=0.0040 batch_loss=0.0133 acc=0.0005 batch_acc=0.0020
+[2022-11-04 11:20:41,993][ai4sci.trainer][INFO] - [0] [0/10: 51200 / 160145 (32%)] epoch=0.0000 dt=0.7688 running_loss=0.0044 batch_loss=0.0132 acc=0.0006 batch_acc=0.0039
+[2022-11-04 11:20:50,359][ai4sci.trainer][INFO] - [0] [0/10: 56320 / 160145 (35%)] epoch=0.0000 dt=0.7281 running_loss=0.0048 batch_loss=0.0133 acc=0.0008 batch_acc=0.0020
+[2022-11-04 11:21:01,633][ai4sci.trainer][INFO] - [0] [0/10: 61440 / 160145 (38%)] epoch=0.0000 dt=0.7682 running_loss=0.0052 batch_loss=0.0133 acc=0.0009 batch_acc=0.0039
+[2022-11-04 11:21:09,898][ai4sci.trainer][INFO] - [0] [0/10: 66560 / 160145 (42%)] epoch=0.0000 dt=1.0176 running_loss=0.0057 batch_loss=0.0130 acc=0.0010 batch_acc=0.0078
+[2022-11-04 11:21:18,513][ai4sci.trainer][INFO] - [0] [0/10: 71680 / 160145 (45%)] epoch=0.0000 dt=1.0307 running_loss=0.0061 batch_loss=0.0132 acc=0.0011 batch_acc=0.0000
+[2022-11-04 11:21:27,326][ai4sci.trainer][INFO] - [0] [0/10: 76800 / 160145 (48%)] epoch=0.0000 dt=0.7466 running_loss=0.0065 batch_loss=0.0130 acc=0.0013 batch_acc=0.0039
+[2022-11-04 11:21:35,892][ai4sci.trainer][INFO] - [0] [0/10: 81920 / 160145 (51%)] epoch=0.0000 dt=0.7083 running_loss=0.0069 batch_loss=0.0129 acc=0.0016 batch_acc=0.0117
+[2022-11-04 11:21:44,578][ai4sci.trainer][INFO] - [0] [0/10: 87040 / 160145 (54%)] epoch=0.0000 dt=0.8191 running_loss=0.0073 batch_loss=0.0129 acc=0.0017 batch_acc=0.0039
+[2022-11-04 11:21:53,341][ai4sci.trainer][INFO] - [0] [0/10: 92160 / 160145 (58%)] epoch=0.0000 dt=0.9598 running_loss=0.0077 batch_loss=0.0129 acc=0.0019 batch_acc=0.0039
+[2022-11-04 11:22:02,012][ai4sci.trainer][INFO] - [0] [0/10: 97280 / 160145 (61%)] epoch=0.0000 dt=1.2745 running_loss=0.0081 batch_loss=0.0128 acc=0.0021 batch_acc=0.0117
+[2022-11-04 11:22:10,644][ai4sci.trainer][INFO] - [0] [0/10: 102400 / 160145 (64%)] epoch=0.0000 dt=0.8504 running_loss=0.0085 batch_loss=0.0127 acc=0.0023 batch_acc=0.0078
+[2022-11-04 11:22:19,333][ai4sci.trainer][INFO] - [0] [0/10: 107520 / 160145 (67%)] epoch=0.0000 dt=0.8145 running_loss=0.0090 batch_loss=0.0126 acc=0.0026 batch_acc=0.0039
+[2022-11-04 11:22:28,585][ai4sci.trainer][INFO] - [0] [0/10: 112640 / 160145 (71%)] epoch=0.0000 dt=1.0520 running_loss=0.0094 batch_loss=0.0127 acc=0.0029 batch_acc=0.0078
+[2022-11-04 11:22:37,436][ai4sci.trainer][INFO] - [0] [0/10: 117760 / 160145 (74%)] epoch=0.0000 dt=0.7061 running_loss=0.0098 batch_loss=0.0124 acc=0.0032 batch_acc=0.0059
+[2022-11-04 11:22:45,540][ai4sci.trainer][INFO] - [0] [0/10: 122880 / 160145 (77%)] epoch=0.0000 dt=0.7425 running_loss=0.0102 batch_loss=0.0123 acc=0.0036 batch_acc=0.0137
+[2022-11-04 11:22:54,292][ai4sci.trainer][INFO] - [0] [0/10: 128000 / 160145 (80%)] epoch=0.0000 dt=0.6081 running_loss=0.0105 batch_loss=0.0122 acc=0.0040 batch_acc=0.0156
+[2022-11-04 11:23:02,929][ai4sci.trainer][INFO] - [0] [0/10: 133120 / 160145 (83%)] epoch=0.0000 dt=0.5461 running_loss=0.0109 batch_loss=0.0123 acc=0.0045 batch_acc=0.0195
+[2022-11-04 11:23:11,536][ai4sci.trainer][INFO] - [0] [0/10: 138240 / 160145 (87%)] epoch=0.0000 dt=0.5196 running_loss=0.0113 batch_loss=0.0120 acc=0.0050 batch_acc=0.0156
+[2022-11-04 11:23:20,003][ai4sci.trainer][INFO] - [0] [0/10: 143360 / 160145 (90%)] epoch=0.0000 dt=0.5144 running_loss=0.0117 batch_loss=0.0119 acc=0.0055 batch_acc=0.0176
+[2022-11-04 11:23:29,806][ai4sci.trainer][INFO] - [0] [0/10: 148480 / 160145 (93%)] epoch=0.0000 dt=0.6810 running_loss=0.0121 batch_loss=0.0116 acc=0.0062 batch_acc=0.0293
+[2022-11-04 11:23:39,553][ai4sci.trainer][INFO] - [0] [0/10: 153600 / 160145 (96%)] epoch=0.0000 dt=0.7246 running_loss=0.0125 batch_loss=0.0116 acc=0.0071 batch_acc=0.0215
+[2022-11-04 11:23:48,127][ai4sci.trainer][INFO] - [0] [0/10: 158720 / 160145 (99%)] epoch=0.0000 dt=0.6916 running_loss=0.0128 batch_loss=0.0112 acc=0.0079 batch_acc=0.0430
+[2022-11-04 11:23:55,885][__main__][INFO] - -------------------
+[2022-11-04 11:23:55,886][__main__][INFO] - [TEST] Accuracy: 0%
+[2022-11-04 11:23:55,886][__main__][INFO] - -------------------
+[2022-11-04 11:23:55,888][__main__][INFO] - ----------------------------
+[2022-11-04 11:23:55,888][__main__][INFO] - [TRAIN]  loss=0.0016  acc=0%
+[2022-11-04 11:23:55,888][__main__][INFO] - ----------------------------
