@@ -1,6 +1,6 @@
 HW: Vary the parallel_threads and prefetch_buffer_size parameters at the top of train_resnet34.py and make a table of how the mean image rate changes.
 
-No. of parallel threads,buffer_size,Mean rate of images/sec
+No. of parallel threads,batch_size,Mean rate of images/sec
 16,8,592
 
 32,8,674
